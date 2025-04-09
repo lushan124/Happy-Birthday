@@ -1,0 +1,5 @@
+# Ignore dependencies and editor config
+node_modules/
+.vscode/
+.env
+*.log
